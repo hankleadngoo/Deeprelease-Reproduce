@@ -1,0 +1,36 @@
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+.venv/
+.venvs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.test_tmp/
+tests/tmp*/
+# Dependencies and generated files
+node_modules/
+.next/
+dist/
+build/
+out/
+outputs/
+data/
+checkpoints/
+deeprelease_category_checkpoints/
+logs/
+results/
+uploads/
+pgdata/
+pgsql/
+node/
+temp-frontend/
+*.log
+*.zip
+*.7z
+*.safetensors
+*.pt
+*.pth
+*.pyc

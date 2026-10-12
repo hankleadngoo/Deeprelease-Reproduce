@@ -1,0 +1,17 @@
+pandas
+numpy
+tqdm
+torch>=1.10.0
+torchvision
+torchaudio
+transformers>=4.18.0
+datasets
+tokenizers
+accelerate
+rouge-score
+nltk
+py7zr
+scikit-learn
+evaluate
+sentencepiece
+protobuf

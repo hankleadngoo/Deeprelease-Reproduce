@@ -1,0 +1,10 @@
+model:
+  model_name: "facebook/bart-base"  
+  max_article_len: 512              
+  max_abstract_len: 64              
+
+train:
+  batch_size: 4                     
+  learning_rate: 3e-5
+  epochs: 5
+  device: "cuda"                   
